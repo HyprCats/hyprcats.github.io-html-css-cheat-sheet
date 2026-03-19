@@ -1,0 +1,133 @@
+/* Main Heading */
+
+header {
+    padding-top: 50px;
+}
+
+#greenblock {
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* HTML Red Block Heading */
+
+.redblock {
+    width: 20%;
+    padding-top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* CSS Blue Block Heading */
+
+.blueblock {
+    width: 20%;
+    padding-top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Table Styling */
+
+.htmlthead {
+    background-color: #FC3A3A;
+}
+
+.htmltbody {
+    background-color: #FFBDBD;
+}
+
+.cssthead {
+    background-color: #4335DE;
+}
+
+.csstbody {
+    background-color: #C1C1FF;
+}
+
+/* General Styling */
+
+h2 {
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Gabarito', sans-serif;
+}
+
+.subheaderhtml {
+    color: #FC3A3A;
+}
+
+.subheadercss {
+    color: #4335DE;
+}
+
+p,
+li,
+td,
+h3 {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+th {
+    font-family: 'Fira Sans', sans-serif;
+    color: white;
+}
+
+body {
+    background-image: url("./Assets/GridBackground.jpg");
+    background-repeat: repeat-y;
+    background-size: contain;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.code {
+    background-color: lightgray;
+    font-family:'Courier New', Courier, monospace;
+}
+
+/* Image Styling */
+
+.greatwave {
+    width: 400px;
+}
+
+.batman {
+    width: 20%;
+}
+
+.tableparts {
+    width: 50%;
+}
+
+.tableexample {
+    width: 50%;
+    display: block;
+}
+
+.cat {
+    width: 30%;
+}
+
+.displayimage {
+    background-color: white;
+}
+
+.colorwheel {
+    width: 30%;
+}
+
+.upbutton {
+    width: 80px;
+    position: fixed;
+    z-index: 3;
+    right: 50px;
+    bottom: 50px;
+}
